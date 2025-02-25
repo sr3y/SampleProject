@@ -1,7 +1,7 @@
 # test_app.py
 
 import pytest
-from main import app
+from src.main import app
 
 
 def test_health_check():
